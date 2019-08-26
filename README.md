@@ -46,7 +46,7 @@ Best, you follow the tutorial in the short manual (Downloads) which explains how
     Gene expression data for the melanoma case study
     Annotation file for the melanoma case study
 
-Please cite: Poos, A.M., et al.Modelling TERT regulation across 19 different cancer types based on the MIPRIP 2.0 gene regulatory network approach.bioRxiv 2019/513259 https://www.biorxiv.org/content/10.1101/513259v1.
+Please cite: Poos, A.M., et al.Modelling TERT regulation across 19 different cancer types based on the MIPRIP 2.0 gene regulatory network approach.bioRxiv 2019/513259 (https://www.biorxiv.org/content/10.1101/513259v1).
 
 ## References
 
